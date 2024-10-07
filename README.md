@@ -22,7 +22,7 @@ Este projeto é uma simulação de diferentes classes de animais (mamíferos, r�
    ```
 
 2. **Executar o projeto:**
-   Para executar a aplicação Swing com o Maven, usando a classe principal definida no seu `pom.xml`, use o comando:
+   Para executar a aplicação com o Maven, usando a classe principal definida no seu `pom.xml`, use o comando:
 
    ```bash
    mvn exec:java
